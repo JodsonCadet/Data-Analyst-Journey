@@ -5,7 +5,7 @@
 # Day 1 – SQLite Basics
 
 ## Overview
-Today I started learning SQL using SQLite. I created a table, inserted data, and queried the data to answer simple business questions.
+Today I solve business problems using data. I created a table, inserted data, and queried the data to answer simple business questions.
 
 ## What I Learned
 - How to create a table
