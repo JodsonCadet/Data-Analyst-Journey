@@ -28,3 +28,9 @@ This is important because businesses use this to understand how much money each 
 
 ## Takeaway
 SQL is used to answer real business questions, not just to write queries.
+
+## Dataset
+
+The dataset used in this project:
+
+[sales.csv](sales.csv)
