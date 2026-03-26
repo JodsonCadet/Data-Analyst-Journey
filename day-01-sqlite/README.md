@@ -1,3 +1,7 @@
+<img width="1252" height="1272" alt="sqliteday1" src="https://github.com/user-attachments/assets/9f1f6aa4-355c-425e-9996-88594902c951" />
+## Output Screenshot
+![SQL Results] (results.png)
+
 # Day 1 – SQLite Basics
 
 ## Overview
