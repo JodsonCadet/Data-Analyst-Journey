@@ -26,3 +26,18 @@ SELECT product, SUM(revenue) AS total_revenue
 FROM sales_performance
 GROUP BY product
 ORDER BY total_revenue DESC;
+
+SELECT region, SUM(revenue) AS total_revenue
+FROM sales_performance
+GROUP BY region
+ORDER BY total_revenue DESC;
+
+SELECT category, SUM(revenue) AS total_revenue
+FROM sales_performance
+GROUP BY category
+ORDER BY total_revenue DESC;
+
+SELECT DATE_TRUNC('month', sale_date) AS month, SUM(revenue) AS total_revenue
+FROM sales_performance
+GROUP BY month
+ORDER BY month;
