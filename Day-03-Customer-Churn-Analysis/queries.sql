@@ -40,6 +40,10 @@ SELECT
      COUNT(*) AS total_customers
 FROM customers
 GROUP BY customer_status;
+
+SELECT 
+    COUNT(CASE WHEN last_active_date < '2024-01-01' THEN 1 END) * 100.0 / COUNT(*) AS churn_rate
+FROM customers;
      
 
 SELECT 
