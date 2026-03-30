@@ -45,3 +45,13 @@ SELECT department, AVG(salary) AS avg_salary
 FROM employees
 GROUP BY department
 ORDER BY avg_salary DESC;
+
+SELECT 
+    employee_name,
+    department,
+    salary,
+    CASE 
+        WHEN salary > 80000 THEN 'High Salary'
+        ELSE 'Standard Salary'
+    END AS salary_level
+FROM employees;
