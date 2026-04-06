@@ -1,4 +1,4 @@
-# 📊 Day 06 — Inventory & Reorder Risk Analysis
+# 📊 Inventory & Reorder Risk Analysis
 
 ## 📌 Project Overview
 In this project, I analyzed inventory data to identify low-stock products, reorder risks, category-level stock distribution, and supplier inventory exposure. The goal was to help the business make smarter inventory decisions and prevent stock shortages or overstock issues.
