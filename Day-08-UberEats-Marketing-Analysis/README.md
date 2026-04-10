@@ -97,3 +97,6 @@ ORDER BY total_orders DESC;
 🔗 https://public.tableau.com/app/profile/jodson.cadet/viz/UberEatsCustomerBehaviorMarketingAnalysis/UberEatsCustomerBehaviorDashboard
 
 ![Results](results.png)
+
+## Kaggle
+📊 [UberEats Dataset on Kaggle](https://www.kaggle.com/datasets/jodsoncadet/ubereats-customer-orders-synthetic-dataset)
