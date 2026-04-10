@@ -94,6 +94,6 @@ ORDER BY total_orders DESC;
 ---
 
 ## Dashboard
-🔗 Tableau Public link coming soon
+🔗 https://public.tableau.com/app/profile/jodson.cadet/viz/UberEatsCustomerBehaviorMarketingAnalysis/UberEatsCustomerBehaviorDashboard
 
 ![Results](results.png)
