@@ -84,7 +84,17 @@ ORDER BY month ASC;
 
 ---
 
-## Dashboard
-🔗 Tableau Public link coming soon
 
-![Results](results.png)
+## 📊 Tableau Dashboard
+
+Built an interactive Tableau dashboard visualizing real options trade data 
+from ThinkorSwim — 25 trades across 9 symbols from Aug–Dec 2025.
+
+**Key visualizations:**
+- P&L by Symbol (red/green bar chart)
+- Monthly P&L Trend (line chart with zero reference line)
+- Trade Count by Symbol (horizontal bar chart)
+
+🔗 [View Live Dashboard](https://public.tableau.com/shared/MM4MPMCS3?:display_count=n&:origin=viz_share_link)
+
+![Dashboard Preview](dashboard.png)
