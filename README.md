@@ -23,3 +23,11 @@ This repository documents my hands-on learning and showcases my ability to analy
 
 ## Progress
 ✔ Day 1 Completed
+
+
+## 👋 About Me
+Aspiring Data Analyst | SQL | Excel | Tableau | PostgreSQL
+
+🔗 https://public.tableau.com/app/profile/jodson.cadet/vizzes
+🔗 [Kaggle Profile](https://www.kaggle.com/jodsoncadet)
+🔗 https://github.com/JodsonCadet
