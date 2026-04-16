@@ -108,7 +108,7 @@ LIMIT 10;
 
 ## Dashboard
 
-🔗 Tableau Public link coming soon
+🔗 🔗 [View Live Dashboard](https://public.tableau.com/views/HospitalReadmissionRiskAnalysis_17762993894930/HospitalReadmissionRiskDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Results](results.png)
 ![Dashboard](dashboard.png)
